@@ -2,13 +2,27 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Missed calls by trade (UK)"
+abstract: "Missed calls by trade (UK) is an open CC BY 4.0 dataset from Ringzel of 10 verified, source-linked statistics on how often UK small businesses miss phone calls and what it costs them."
 authors:
-  - name: "Ringzel (RINGZEL LTD)"
-date-released: 2026-10-23
+  - name: "Ringzel"
+    website: "https://ringzel.com"
+date-released: 2026-10-24
 version: "1.0.0"
 license: CC-BY-4.0
 url: "https://ringzel.com/en-gb/blog/missed-call-cost-uk-trade/"
-repository-code: "https://github.com/PLACEHOLDER/missed-calls-by-trade-uk"
+repository-code: "https://github.com/ringzel/uk-missed-calls-dataset"
+keywords:
+  - "missed calls"
+  - "missed calls UK"
+  - "small business"
+  - "SME"
+  - "tradespeople"
+  - "customer calls"
+  - "call handling"
+  - "lost revenue"
+  - "AI receptionist"
+  - "United Kingdom"
+  - "open data"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.PLACEHOLDER"
