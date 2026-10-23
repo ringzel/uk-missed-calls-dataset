@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Missed calls by trade (UK)"
+authors:
+  - name: "Ringzel (RINGZEL LTD)"
+date-released: 2026-10-23
+version: "1.0.0"
+license: CC-BY-4.0
+url: "https://ringzel.com/en-gb/blog/missed-call-cost-uk-trade/"
+repository-code: "https://github.com/PLACEHOLDER/missed-calls-by-trade-uk"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.PLACEHOLDER"
